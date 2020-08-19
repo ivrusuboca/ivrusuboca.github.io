@@ -59,6 +59,6 @@ Now — writing source code via [vi](https://en.wikipedia.org/wiki/Vi) or [vim](
 
 ![1-writing-scripts-in-swift-language-2.png](/assets/img/1-writing-scripts-in-swift-language-2.png)
 
-And here’s the [source code pull request](https://github.com/ivrusuboca/abc/tree/3fae246ee7dafa36130be0864b904952736e8cf3) for the above. Enjoy !
+And here’s the [pull request source code](https://github.com/ivrusuboca/abc/tree/3fae246ee7dafa36130be0864b904952736e8cf3) for the above. Enjoy !
 
 
